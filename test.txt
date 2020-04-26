@@ -1,5 +1,0 @@
-test for real world conflict 
-
-test file in git
-
-test for merge
